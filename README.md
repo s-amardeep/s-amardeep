@@ -29,7 +29,7 @@ Pursuing ECE along with Minor Degree in CSE.
 
 <br/><br/><br/><hr/>
 
-### Extra Co-curicular activities (Executive/Senior Member at) :
+### Extra Co-curricular activities (Executive/Senior Member at) :
 
 - Lead of Codechef Chapter NITJ
 - Microsoft Student Ambassabor / Partner – amardeepsingh.codes
