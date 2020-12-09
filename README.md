@@ -24,6 +24,23 @@ Pursuing ECE along with Minor Degree in CSE.
 - Web Automation
 
 ### Cloud Platforms:
+<img align="left" alt="AWS" src="https://cdn.appythings.nl/wp-content/uploads/2018/06/aws-logo-icon-PNG-Transparent-Background.png" width="75" height="75" />
+<img align="left" alt="Azure" src="https://www.wintellect.com/wp-content/uploads/2020/02/azure1.png" width="110" height="75" />
+
+<br/><br/><br/><hr/>
+
+### Extra Co-curicular activities (Executive/Senior Member at) :
+
+- Lead of Codechef Chapter NITJ
+- Microsoft Student Ambassabor / Partner – amardeepsingh.codes
+- Developer Student Club (DSC) powered by Google developers.
+- Coding Club NITJ
+- Institution of Innovation Council (IIC) Powered by MHRD
+- Media Cell NITJ
+
+<hr/>
+
+<!--### Certifications: -->
 
 
 ### Connect with me:
