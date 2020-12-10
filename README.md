@@ -40,8 +40,15 @@ Pursuing ECE along with Minor Degree in CSE.
 
 <hr/>
 
-<!--### Certifications: -->
+### Certifications:
+<img align="left" alt="Microsoft Certified : Azure Fundamentals" src="https://images.squarespace-cdn.com/content/v1/5af21c03e17ba3f52f6d007b/1564594919808-23KLDW21ITQ8T4GZOM7B/ke17ZwdGBToddI8pDm48kAf-OpKpNsh_OjjU8JOdDKBZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwkCFOLgzJj4yIx-vIIEbyWWRd0QUGL6lY_wBICnBy59Ye9GKQq6_hlXZJyaybXpCc/fundamentalbadge.png" width="160" height="160" />
+<img align="left" alt="Oracle Certified Associate" src="https://images.youracclaim.com/images/697cf123-74b0-4356-9055-9973471d26d6/03_Oracle_Cloud_Infrastructure_Foundations_Associate.png" width="165" height="165" />
+<img align="left" alt="Oracle Certified Specialist" src=https://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/a3840b1f-8bcd-4f75-b843-eedcb449408e/Image/031ce4f3eae2fe5d6928f346cc8b8b3c/oracle_certification_badge_oc_specialist.png " width="150" height="160" />
+<img align="left" alt="Aviatrix Certified Engineer" src="https://2ujst446wdhv3307z249ttp0-wpengine.netdna-ssl.com/wp-content/uploads/2020/04/ACE-Image250Asset-5.png" width="150" height="180" />
+<br/><br/><br/><br/><br/><br/><br/><br/>
+<!--For Certification Profile / To verify the above logo's [click here](https://www.youracclaim.com/users/amardeepsingh)-->
 
+<hr/>
 
 ### Connect with me:
 
@@ -57,5 +64,5 @@ Pursuing ECE along with Minor Degree in CSE.
 
 :zap: Github Stats
 
-  <!--<img align="left" alt="Amardeep's Github Status" src="https://github-readme-stats.vercel.app/api?username=s-amardeep&show_icons=true&hide_border=true&theme=dracula" /> -->
+  <!--<img align="left" alt="Amardeep's Github Status" src="https://github-readme-stats.vercel.app/api?username=s-amardeep&show_icons=true&hide_border=true&theme=dracula" />-->
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-amardeep&theme=dracula&layout=compact" />
