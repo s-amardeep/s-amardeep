@@ -19,8 +19,8 @@ Pursuing ECE along with Minor Degree in CSE.
 
 -  **Data Structures & Algorithms**
 - Cloud Computing (Basics)
--  Machine Learning
-- Web Scrapping
+- Machine Learning
+- Data Visualization
 - Web Automation
 
 ### Cloud Platforms:
