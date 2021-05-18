@@ -24,7 +24,7 @@ Pursuing ECE along with Minor Degree in CSE.
 - Web Automation
 
 ### Cloud Platforms:
-<img align="left" alt="AWS" src="https://cdn.appythings.nl/wp-content/uploads/2018/06/aws-logo-icon-PNG-Transparent-Background.png" width="75" height="75" />
+<img align="left" alt="AWS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png" width="75" height="65" />
 <img align="left" alt="Azure" src="https://www.wintellect.com/wp-content/uploads/2020/02/azure1.png" width="110" height="75" />
 
 <br/><br/><br/><hr/>
